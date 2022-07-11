@@ -4,10 +4,4 @@
 ## About
 A very simple contact management system.
 <br/>
-Laravel 8,  MySQL, Bootstrap
-
-<br/>
-
-## Screenshots
-![Screenshot](Screenshots/1. login.png)
-![Screenshot](Screenshots/2. register.png)
+Laravel 8,  MySQL, Bootstrap.
